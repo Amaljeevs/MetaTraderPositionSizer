@@ -1,6 +1,6 @@
 # MT5 Position Sizer
 
-The Position Sizer expert advisor for MT4 and MT5 by EarnForex.com.
+The Position Sizer expert advisor for MT4 and MT5 by antspace.com with help of EarnForex.com technical team
 
 The Position Sizer automatically calculates the number of lots to trade based your risk tolerance, account size and currency, currency pair, commission, and other settings.
 
